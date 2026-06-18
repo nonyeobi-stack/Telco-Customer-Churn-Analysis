@@ -22,7 +22,7 @@ This project focuses on identifying key drivers of customer attrition (churn) fo
 
    ## How to Replicate This Project
 1. **Clone the Repository:** ```bash
-   git clone [https://github.com/nonyeobi-stack/telco-customer-churn-segmentation.git](https://github.com/nonyeobi-stack/telco-customer-churn-segmentation.git)
+   git clone [https://github.com/nonyeobi-stack/telco-customer-churn-analysis.git](https://github.com/nonyeobi-stack/telco-customer-churn-analysis.git)
 
    bash
 
